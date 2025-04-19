@@ -26,31 +26,28 @@ A professional-grade resume analyzer built with **Streamlit** and powered by **G
 ## 📦 Installation
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/your-username/resume-expert.git
 cd resume-expert
 
-. Create a virtual environment
-bash
-Copy
-Edit
+### Create a virtual environment
 python -m venv venv
 # On Windows
 venv\Scripts\activate
 # On macOS/Linux
 source venv/bin/activate
-3. Install the requirements
 
+
+### Install the requirements
 pip install -r requirements.txt
 
 
-4. Configure environment variables
+### Configure environment variables
 
 Create a .env file in the root directory:
 GOOGLE_API_KEY=your_google_gemini_api_key
 
 
-🔧 Additional Setup
+###🔧 Additional Setup
 Install Poppler (required by pdf2image):
 
 Ubuntu/Debian: sudo apt-get install poppler-utils
@@ -59,7 +56,7 @@ macOS: brew install poppler
 
 Windows: Download poppler and add it to PATH
 
-## ▶️ Run the App
+### ▶️ Run the App
 streamlit run app.py
 
 
