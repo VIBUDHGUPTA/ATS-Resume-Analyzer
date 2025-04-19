@@ -1,6 +1,6 @@
 # 🧠 Resume EXPERT — AI-Powered Resume Analyzer
 
-A professional-grade resume analyzer built with **Streamlit** and powered by **Google's Gemini AI**. Upload your resume, input a job description, and get detailed feedback, improvement tips, YouTube learning resources, compatibility scores, and interview guidance
+A professional-grade resume analyzer built with **Streamlit** and powered by **Google's Gemini AI**. Upload your resume, input a job description, and get detailed feedback, improvement tips, YouTube learning resources, compatibility scores, and interview guidance.
 
 ---
 
